@@ -1,0 +1,166 @@
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\bin\Debug\ComParts.exe.config
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\bin\Debug\ComParts.exe
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\bin\Debug\ComParts.pdb
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form1.resources
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form2.resources
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form3.resources
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form4.resources
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form5.resources
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Properties.Resources.resources
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.exe
+C:\Users\User\Source\Repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.pdb
+C:\Users\User\source\repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form6.resources
+C:\Users\User\source\repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form7.resources
+C:\Users\User\source\repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form8.resources
+C:\Users\User\source\repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form9.resources
+C:\Users\User\source\repos\mehedihasan740\ComParts\ComParts\obj\Debug\ComParts.Form10.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\bin\Debug\ComParts.exe.config
+H:\OOP2\Project materials\Demo\ComParts\ComParts\bin\Debug\ComParts.exe
+H:\OOP2\Project materials\Demo\ComParts\ComParts\bin\Debug\ComParts.pdb
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.csproj.AssemblyReference.cache
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form1.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form10.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form11.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form2.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form3.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form4.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form5.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form6.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form7.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form8.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form9.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Properties.Resources.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.csproj.GenerateResource.cache
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.csproj.CoreCompileInputs.cache
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.exe
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.pdb
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form12.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form13.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form14.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form15.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form16.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form17.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form18.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form19.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form20.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form21.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form22.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form23.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl1.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl2.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl3.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl4.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl5.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl6.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl7.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl8.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl9.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl10.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl11.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl12.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.UserControl13.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form24.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form25.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form26.resources
+H:\OOP2\Project materials\Demo\ComParts\ComParts\obj\Debug\ComParts.Form27.resources
+C:\Users\User\Desktop\ComParts\ComParts\bin\Debug\ComParts.exe.config
+C:\Users\User\Desktop\ComParts\ComParts\bin\Debug\ComParts.exe
+C:\Users\User\Desktop\ComParts\ComParts\bin\Debug\ComParts.pdb
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form1.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form10.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form11.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form12.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form13.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form14.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form15.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form16.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form17.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form18.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form19.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form2.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form20.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form21.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form22.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form23.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form24.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form25.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form26.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form27.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form3.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form4.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form5.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form6.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form7.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form8.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Form9.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.Properties.Resources.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl1.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl10.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl11.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl12.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl13.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl2.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl3.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl4.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl5.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl6.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl7.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl8.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.UserControl9.resources
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.exe
+C:\Users\User\Desktop\ComParts\ComParts\obj\Debug\ComParts.pdb
+F:\ComParts\ComParts\bin\Debug\ComParts.exe.config
+F:\ComParts\ComParts\bin\Debug\ComParts.exe
+F:\ComParts\ComParts\bin\Debug\ComParts.pdb
+F:\ComParts\ComParts\obj\Debug\ComParts.csproj.AssemblyReference.cache
+F:\ComParts\ComParts\obj\Debug\ComParts.Form1.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form10.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form11.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form12.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form13.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form14.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form15.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form16.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form17.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form18.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form19.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form2.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form20.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form21.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form22.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form23.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form24.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form25.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form26.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form27.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form3.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form4.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form5.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form6.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form7.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form8.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Form9.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.Properties.Resources.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl1.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl10.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl11.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl12.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl13.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl2.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl3.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl4.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl5.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl6.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl7.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl8.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.UserControl9.resources
+F:\ComParts\ComParts\obj\Debug\ComParts.csproj.GenerateResource.cache
+F:\ComParts\ComParts\obj\Debug\ComParts.csproj.CoreCompileInputs.cache
+F:\ComParts\ComParts\obj\Debug\ComParts.exe
+F:\ComParts\ComParts\obj\Debug\ComParts.pdb
